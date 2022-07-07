@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ammaraget
+- 👋 Hi, I’m Ammara Jabbar Data Scientist
 - 👀 I’m interested in Artifacial Intellegnece Challenges
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Pyhthon
